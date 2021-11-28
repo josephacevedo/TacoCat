@@ -62,6 +62,15 @@ code[class*="language-"],
             word-wrap: break-word;
         }
 
+
+
+.display-container{
+    background-color: white;
+    border: 1px solid black;
+     height: 100px;
+}
+
+
 /* .footer-logo{
     position: absolute;
     height: 5rem;
